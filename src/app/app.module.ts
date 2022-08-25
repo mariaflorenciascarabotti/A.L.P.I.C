@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { QuienesSomosComponent } from './quienes-somos/quienes-somos.component';
 import { ColaborateComponent } from './colaborate/colaborate.component';
-import { ContactComponent } from './contact/contact.component';
 import { QComponent } from './q/q.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { FooterComponent } from './footer/footer.component';
@@ -17,7 +16,6 @@ import { FooterComponent } from './footer/footer.component';
     HomeComponent,
     QuienesSomosComponent,
     ColaborateComponent,
-    ContactComponent,
     QComponent,
     ToolbarComponent,
     FooterComponent,
