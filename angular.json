@@ -103,7 +103,12 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "https://angular-schule.github.io/angular-cli-ghpages/",
+            "name": "Angular Schule Team",
+            "email": "team@angular.schule"
+          }
         }
       }
     }
